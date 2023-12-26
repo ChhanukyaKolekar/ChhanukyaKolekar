@@ -1,6 +1,7 @@
 - Hi, I’m Chhanukya Kolekar.
+- A Bachelor's of Engineering Graduate (2022).
 - Possesses valuable experience working within the organization as Python Developer, demonstrating proficiency in coding and contributing towards growth of the company.
-- A Bachelor's Of Engineering Graduate (2022).
+
 - Expertise 
 lies in Python programming, web 
 development using Django, ORM with 
