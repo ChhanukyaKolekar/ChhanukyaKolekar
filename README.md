@@ -9,7 +9,7 @@ MySQL database integration and Knowledge of JavaScript fundamentals, including f
 and DOM.
 - Understanding core principles of Cyber
 security and Networking concepts.
-- Currently open for job opportunity. You can find my resume in the below link https://drive.google.com/file/d/1TQaFA2il6BPpBDyEKwU20hBgtOJlsuqB/view?usp=drive_link  
+- Currently open for job opportunity. You can find my resume in the below link https://drive.google.com/drive/folders/1R2wpVizPWST1WSjvReV9PinYGTRS0BP1?usp=drive_link
 
 
 <!---
